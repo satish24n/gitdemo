@@ -6,7 +6,7 @@ var _loop_1 = function (i_1) {
 for (var i_1 = 0; i_1 < 5; i_1++) {
     _loop_1(i_1);
 }
-console.log("----------------------------");
+console.log("----------------------XXXXXXXXXXXXXXXXXXXX------");
 for (var i = 0; i < 5; i++) {
     console.log(i);
 }
@@ -14,3 +14,8 @@ for (var i = 0; i < 5; i++) {
 // var b:number = 5;
 // console.log(b);
 // another test code for git
+
+
+Americal guy makes changes
+fdsfaffdsfadsfdsfds 
+asdfdsafdsafdsafsaf
